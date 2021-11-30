@@ -1,0 +1,168 @@
+
+    # Workshop-jobmarket
+
+## Aufgabenstellung - Teil 1
+Gehe auf die Seite https://www.upwork.com/
+
+Finde heraus, worum es sich auf der Seite handelt.
+
+Antwort : JobBörse 
+
+Finde einen Weg, nach Jobangeboten zu suchen. Gibt es Filter, mit denen sich die Suche einschränken lässt?
+
+Antwort : Oben im Search reiter kann auswählen  Talent , Projects , Explore jobs.
+Im Startbildschirm gibt es auch eine möglichkeit, diese befindet sich oben in der Leiste ( Find Work ) .
+Es gibt Filter 
+
+Um ein Jobangebot zu finden, musst du einen Suchbegriff eingeben. Suche nach folgenden Begriffen.
+
+
+     
+
+Wie viele Jobangebote findest Du zu den Begriffen?
+
+
+    HTML         12,827 jobs found 
+
+    CSS          10,802 jobs found 
+
+    JavaScript   23,078 jobs found 
+
+    React        6,305 jobs found 
+
+    Bootstrap    1,449 jobs found
+
+    NodeJS       4,095 jobs found
+
+    Express      879 jobs found 
+
+    MongoDB      1,631 jobs found 
+
+    Fullstack-Web-Developer  15,088 jobs found
+
+    MERN  Stack       266 jobs found 
+
+
+Finde mindestens drei Jobangebote, die zu deinen Kenntnissen passen.
+
+
+
+
+
+Nummer 1:  Stichwort Html
+
+We are looking for a website developer to help build our website for our NEW PROJECT “ Support with building Trading bot for crypto”. We need someone to make a webpage for us.. I don’t have a specific list as of yet but I do have references.
+
+Less than 30 hrs/week
+Hourly
+1-3 months
+Duration
+Intermediate
+Experience Level
+$15.00-$45.00
+Hourly
+Remote Job
+
+
+
+Nummer 2: Stichwort CSS
+
+The ideal candidate is a creative problem solver who will work in coordination with cross-functional teams to design, develop, and maintain our next generation websites and web tools. You must be comfortable working as part of a team while taking the initiative to take lead on new innovations and projects.
+
+Responsibilities
+
+• KNOW HTML, CSS, JAVASCRIPT, PHP AND OTHER RELEVANT WEB DESIGN CODING LANGUAGE
+
+• CREATE AND TEST APPLICATIONS FOR WEBSITES
+
+• WORK WITH GRAPHICS AND OTHER DESIGNERS
+
+• TROUBLESHOOT WEBSITES PROBLEMS
+
+• MONITOR WEBSITE TRAFFIC
+
+• STAY UP-TO-DATE ON TECHNOLOGY
+
+Qualifications
+
+Ability to multi-task, organize, and prioritize work
+Bachelor's degree or equivalent experience in Computer Science
+At least 4 years of experience using HTML, CSS, and JavaScript, PHP and either CodeIgniter and Laravel
+Proficiency in at least one server-side technology (TypeScript,PHP, NodeJS, Python)
+Basic/Advanced knowledge of nodejs
+Ability to multi-task, organize, and prioritize work
+
+
+
+Nummer 3: Stichwort JavaScript
+
+Firebase developer expert 
+
+We are having an application ,
+
+but we keep receive from firebase a security email
+
+"Your Realtime database has insecure rules "
+
+we are looking for someone can fix this issue for us
+
+Less than 30 hrs/week
+Hourly
+
+< 1 month
+Duration
+
+Expert
+Experience Level
+
+Remote Job
+
+One-time project
+Project Type 
+
+
+## Aufgabenstellung - Teil 2
+Finde heraus, wie man sich um ein Jobangebot bewerben kann. Gibt es Voraussetzungen, die man erfüllen muss und gibt es einen Credit, den man ausgeben kann.
+
+
+ Antwort : Man muss ein eigens Portofolio herstellen . 
+ Profil erstellen 
+
+
+
+Finde heraus, ob es bereits andere Bewerber auf das Jobangebot gibt, falls ja, wie viele?
+
+
+zu Job 1
+1 Vorstellungsgespräch
+
+zu Job 2
+Wird nicht angezeigt
+
+zu Job 3
+ 4
+Vorstellungsgespräch
+1
+Einladungen gesendet 
+
+
+## Aufgabenstellung - Teil 3
+Versetze dich nun in die Lage eines Auftraggebers und suche nach Webseitenentwicklern.
+
+Gibt es Entwickler auf der Plattform und welche Kenntnisse bringen die Entwickler mit?
+
+Antwort : 
+Es gibt viele verschiedene Web Entwickler.
+
+Sowohl als Freelancer oder auch bei Agenturen findet man welche.
+
+Kenntnisse reichen von "Web Programming" bis hin zu 
+UX/UI Desinger. 
+
+
+
+Zu welchen Tarifen arbeiten die Entwickler und handelt es sich um Freelancer oder Agenturen?
+
+Freelancer arbeiten per Stundenlohn der bei 8$ bis knapp 60$ pro stunde liegt.
+
+bei den Agenturen liegt der Preis bei 20$ bis hin zu 75$ 
