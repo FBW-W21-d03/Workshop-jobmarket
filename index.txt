@@ -1,0 +1,46 @@
+    # Workshop-jobmarket (Upwork)
+     Aufgabenstellung - Teil 1
+
+1 )- Finde heraus, worum es sich auf der Seite handelt.
+    
+     Upwork istein portal zur Prjekt und Kundenaquise zwischen Auftraggebern und Freelancern.
+
+2 )- Finde einen Weg, nach Jobangeboten zu suchen. Gibt es Filter, mit denen sich die Suche einschränken lässt?
+     
+     Es gibt viele Filter, um die Suche einzugrenzen, und wir könen das gewünschte Ergebnis Für di Suche erhalten.
+
+ 3 )- Wie viele Jobangebote findest Du zu den Begriffen?
+      
+      HTML:  12,907 jobs found. 
+      css:  10,875 jobs found. 
+      JavaScript:  23,208 jobs found.
+      React:  6,342 jobs found.
+
+      Aufgabenstellung - Teil 2
+1 )- wie man sich um ein Jobangebot bewerben kann.
+     Gibt es Voraussetzungen, die man erfüllen muss und gibt es einen Credit, den man ausgeben kann.
+
+    Die Anforderungen sind:
+    Grundkenntnisse in HTML/CSS und JavaScript
+    Rahmen: Reagieren
+    Apropos reagieren:
+    Reagieren Sie mit Mobx (einem Zustandsverwaltungssystem, alternativ: Redux).
+    Styling mit gestylten Komponenten (Bibliotheksname).
+    Datenbankerfahrung erforderlich (mindestens Grundkenntnisse)
+    Backend mit Express (Node.js-Framework)
+     
+2 )- Finde heraus, ob es bereits andere Bewerber auf das Jobangebot gibt, falls ja, wie viele?
+    Ees gibt keine.
+
+       Aufgabenstellung - Teil 3
+1 )- Gibt es Entwickler auf der Plattform und welche Kenntnisse bringen die Entwickler mit?
+     
+     Es gibt viele Entwickler.
+     Grafikdesigner + Webdesign/CSS/HTML-Kenntnisse + WIX/Tilda 
+
+ 2 )-  Zu welchen Tarifen arbeiten die Entwickler und handelt es sich um Freelancer oder Agenturen?
+      Sie arbeiten zur Dollar Tarifen und handelt es sich um Freelancer.
+     
+      
+
+
