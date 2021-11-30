@@ -1,0 +1,119 @@
+
+
+worum es sich auf der Seite(https://www.upwork.com/) handelt?
+-Jobangeboten
+
+Finde einen Weg, nach Jobangeboten zu suchen?
+
+-Um ein Jobangebot zu finden, musst man einfach einen Suchbegriff eingeben und dann nach Begriffen suchen.
+
+Wie viele Jobangebote findest Du zu den Begriffen?
+
+
+   - HTML         12,818 jobs found 
+
+    -CSS          10,800 jobs found 
+
+   -JavaScript   23,186 jobs found 
+
+    - React        6,320 jobs found 
+
+    -Bootstrap    1,444 jobs found
+
+    -NodeJS       8,849 jobs found
+
+    -Express      877 jobs found 
+
+    -MongoDB      1,629 jobs found 
+
+    -Fullstack-Web-Developer  90 jobs found
+
+     -MERN         192 jobs found 
+
+Finde mindestens drei Jobangebote, die zu deinen Kenntnissen passen?
+
+
+Suchbegriff: Html
+----------------
+1-Looking for someone who is available on flexible timings.
+
+- You must know about shopify theme development
+- Optimizing shopify stores
+- Custom sections
+- Use vuejs or any other framework
+- Maybe more
+
+Less than 30 hrs/week
+Hourly
+Experience Level
+one-time Project
+$20.00-$25
+Hourly
+Remote Job
+
+
+Suchbegriff: Css
+--------------
+2- I have some pages in HTML that need to be formatted according to a standard stylesheet (which already exists). This CSS stylesheet needs some modifications to improve it.
+
+The task is to tidy the HTML, both so that the code is simple, clean and consistent, and to make the pages look clean and correct.
+
+Ideally I would like this task done today or tomorrow. I have about 8 short documents to start with. There will be more.
+
+less than 30 hrs/week
+$5.00-$8.00
+Remote Job
+Project Type:One-time project
+
+
+Suchbegriff: Javascript
+----------------------
+3- I want someone who design my project for me today for my new restaurant kitchen email me at larryavenger159@gmail.
+
+fixed Price:$1,700
+project type: Complex Project
+Experience Level
+Remote Job
+
+******************************************
+AUFGABENSTELLUNG-TEIL 2:
+
+wie man sich um ein Jobangebot bewerben kann?
+
+-Wenn man eigenes Portofolio hat und profil erstellt.
+
+Finde heraus, ob es bereits andere Bewerber auf das Jobangebot gibt, falls ja, wie viele?
+
+Job-1: 
+ 2 Vorstellungsgespräch
+
+
+Job-2:
+ 3 Vorstellungsgespräch
+
+ Job-3:
+ Es hat ganz neu auf Website veröffentlicht.
+
+
+********************************************
+AUFGABENSTELLUNG - TEIL3:
+
+Gibt es Entwickler auf der Plattform und welche Kenntnisse bringen die Entwickler mit?
+
+-ja, es gibt viele verschiedene Web entwickler und sie haben viele verschieene kenntnisse z.b react, Javascript, php, Magento, jQuery ,.....
+
+
+Zu welchen Tarifen arbeiten die Entwickler und handelt es sich um Freelancer oder Agenturen?
+
+- Das war unterschielich 
+Bei den Agenturen liegt der Preis bei 20$ bis hin zu 50$ Und Freelancer arbeiten per Stunden ab 5$ bis ungefähr 30$ pro stunde.
+Es handelt sich um sowohl Freelancer als auch Agenturen.
+
+*******************************************
+AUFGABENSTELLUNG - TEIL- 4:
+
+Es wird erledigt.
+
+
+
+
