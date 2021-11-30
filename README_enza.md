@@ -62,6 +62,15 @@ https://www.reddit.com/r/freelance/comments/7fvxbj/how_much_money_can_you_actual
 
 https://www.reddit.com/r/digitalnomad/comments/64o12g/is_upwork_really_worth_it_heres_a_comprehensive/ //ok
 
+->   - was auch meine erkenntnis von solchen portalen ist - ich zitiere aus dem obersten redditlink:
+
+    "diese Seiten sind normalerweise eine Zeit- und Energieverschwendung für Profis. Es gibt gelegentlich anständige Kunden dort.. aber 99% der Jobs werden von Leuten   aufgegeben, denen der Preis viel wichtiger ist als die Qualität der Arbeit.
+
+    Ich denke, es wäre eine wirklich harte, langsame und anstrengende Arbeit, zu versuchen, sich ein Vollzeitleben von Upwork zu verdienen. . ."
+
+    *peace*
+
+
 ## Ergebnisse
 Schreibe die Ergebnisse deiner Recherche in einer Textdatei auf und erstelle einen Branch mit deiner Lösung.
 
