@@ -34,3 +34,6 @@ Versetze dich nun in die Lage eines Auftraggebers und suche nach Webseitenentwic
 Gibt es Entwickler auf der Plattform und welche Kenntnisse bringen die Entwickler mit?
 
 Zu welchen Tarifen arbeiten die Entwickler und handelt es sich um Freelancer oder Agenturen?
+
+## Ergebnisse
+Schreibe die Ergebnisse deiner Recherche in einer Textdatei auf und erstelle einen Branch mit deiner Lösung.
