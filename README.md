@@ -35,5 +35,12 @@ Gibt es Entwickler auf der Plattform und welche Kenntnisse bringen die Entwickle
 
 Zu welchen Tarifen arbeiten die Entwickler und handelt es sich um Freelancer oder Agenturen?
 
+## Aufgabenstellung - Teil 4
+Lese folgende Beiträge der Community
+
+https://www.reddit.com/r/freelance/comments/7fvxbj/how_much_money_can_you_actually_make_from/
+
+https://www.reddit.com/r/digitalnomad/comments/64o12g/is_upwork_really_worth_it_heres_a_comprehensive/
+
 ## Ergebnisse
 Schreibe die Ergebnisse deiner Recherche in einer Textdatei auf und erstelle einen Branch mit deiner Lösung.
