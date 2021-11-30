@@ -7,7 +7,7 @@ Finde heraus, worum es sich auf der Seite handelt.
 
 Finde einen Weg, nach Jobangeboten zu suchen. Gibt es Filter, mit denen sich die Suche einschränken lässt?
 
-ja, in der vertikalen leiste links.
+ - ja, in der vertikalen leiste links.
 
 Um ein Jobangebot zu finden, musst du einen Suchbegriff eingeben. Suche nach folgenden Begriffen.
 Wie viele Jobangebote findest Du zu den Begriffen?
