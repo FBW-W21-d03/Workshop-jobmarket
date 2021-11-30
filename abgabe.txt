@@ -1,0 +1,44 @@
+Aufgabe 1.)
+
+Bei "upwork" handelt es sich um einen Arbeitsmarkt/vermittlung für Freelancer und usw.
+
+In der Suchfunktion kann man zwischen drei Rubriken aussuchen.
+--> Talent - Projekte -- Arbeitsplätze
+
+unter dem Punkt Arbeitsplätze kann man nach Job-Ausstellungen
+
+
+1. HTML                     12,831
+2. CSS                      10,807
+3. JavaScript               23,095
+4. React                     6,310
+5. Bootstrap                 1,445
+6. NodeJS                    4,101
+7. Express                     880
+8. MongoDB                   1,633
+9. Fullstack-Web-Developer  14,241
+10. MERN                       192
+
+
+
+Aufgabe 2.)
+
+Um sich bewerben zu können muss ein Profil angelegt werden,
+wo persönliche Daten, der Lebenslauf und Qualifikationen erwartet werden.
+Unter den Voraussetzungen wird das Erfahrungsniveau angegeben zb. Expert oder Intermediate.
+
+Aufgabe 3.)
+
+Need a Online Shop Expert
+
+
+Budget:     5€
+Dauer:      1 std
+Niveau:     Anfänger
+
+HTML CSS REACT SASS
+
+Freelancer oder Agenturen erwünscht.
+
+
+
