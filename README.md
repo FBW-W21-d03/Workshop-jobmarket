@@ -8,16 +8,16 @@ Finde heraus, worum es sich auf der Seite handelt.
 Finde einen Weg, nach Jobangeboten zu suchen. Gibt es Filter, mit denen sich die Suche einschränken lässt?
 
 Um ein Jobangebot zu finden, musst du einen Suchbegriff eingeben. Suche nach folgenden Begriffen.
-1. HTML
-2. CSS
-3. JavaScript
-4. React
-5. Bootstrap
-6. NodeJS
-7. Express
-8. MongoDB
-9. Fullstack-Web-Developer
-10. MERN
+1. HTML - 12.894
+2. CSS - 10.863
+3. JavaScript - 23.195
+4. React - 6.341
+5. Bootstrap - 1.449
+6. NodeJS - 4.495
+7. Express - 866-886
+8. MongoDB - 1.640
+9. Fullstack-Web-Developer - 272
+10. MERN - 210
 
 Wie viele Jobangebote findest Du zu den Begriffen?
 
